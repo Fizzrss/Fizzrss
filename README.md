@@ -1,24 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E4C6D,50:6E7FA3,100:A9C9C9&height=220&section=header&text=Halo,%20Aku%20Fiza Rahmatus Sholikha%20&fontSize=42&fontColor=EDE6D6&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20D4%20Sistem%20Informasi%20Bisnis%20•%20Politeknik%20Negeri%20Malang&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E4C6D,50:6E7FA3,100:A9C9C9&height=220&section=header&text=Halo%2C%20Aku%20Fizzrss%20%E2%8F%B3&fontSize=42&fontColor=EDE6D6&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20D4%20Sistem%20Informasi%20Bisnis%20%E2%80%A2%20Politeknik%20Negeri%20Malang&descAlignY=58&descAlign=50" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8B93B8&center=true&vCenter=true&width=600&lines=Perjalanan+panjang+dimulai+dari+satu+baris+kode;Belajar+Laravel%2C+Flutter%2C+dan+PostgreSQL;Waktu+terus+berjalan%2C+skill+terus+bertumbuh+" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8B93B8&center=true&vCenter=true&width=600&lines=Perjalanan%20panjang%20dimulai%20dari%20satu%20baris%20kode;Belajar%20Laravel%2C%20Flutter%2C%20dan%20PostgreSQL;Waktu%20terus%20berjalan%2C%20skill%20terus%20bertumbuh%20%E2%8F%B3" alt="Typing SVG" />
 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
-### ⏳ Tentang Aku
+### ⏳ About Me
 
-- 🎓 Mahasiswa **D4 Sistem Informasi Bisnis**, Politeknik Negeri Malang
-- 💻 Sedang menekuni **Laravel, PHP, PostgreSQL, Supabase, Flutter**, dan pengembangan web/mobile
-- 📊 Juga terbiasa dengan **Java dan Python**, dan dasar **HTML, CSS, JS**
-- 🌫️ Terinspirasi semangat Frieren: belajar pelan-pelan, menghargai proses, dan mengumpulkan pengalaman sedikit demi sedikit
-- 📫 Yuk terhubung dan berkolaborasi di proyek-proyek kampus maupun personal!
+- 🎓 A **Business Information Systems student** at Politeknik Negeri Malang
+- 💻 Currently learning **Laravel, PHP, PostgreSQL, Supabase, Flutter**, and web/mobile development
+- 📊 Also familiar with **Java, Python, Excel**, and the basics of **HTML, CSS, and JavaScript**
+- 📫 Let's connect and collaborate on campus and personal projects!
 
 <br>
 
-### 🔮 Keahlian
+### 🔮 Skills
 
 <div align="center">
 
@@ -28,7 +27,7 @@
 
 <br>
 
-### ✉️ Terhubung Denganku
+### ✉️ Connect With Me
 
 <div align="center">
 
@@ -48,12 +47,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
-### 📖 Statistik GitHub
+### 📖 GitHub Statistics
 
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fizzrss&show_icons=true&hide_border=true&title_color=8B93B8&icon_color=A9C9C9&text_color=EDE6D6&bg_color=2B3350&ring_color=C9A66B" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Fizzrss&hide_border=true&background=2B3350&stroke=C9A66B&ring=C9A66B&fire=C9A66B&currStreakLabel=8B93B8&sideLabels=8B93B8&currStreakNum=EDE6D6&sideNums=EDE6D6&dates=8B93B8" />
+<img height="165" src="https://streak-stats.demolab.com/?user=Fizzrss&hide_border=true&background=2B3350&stroke=C9A66B&ring=C9A66B&fire=C9A66B&currStreakLabel=8B93B8&sideLabels=8B93B8&currStreakNum=EDE6D6&sideNums=EDE6D6&dates=8B93B8" />
 
 <br>
 
@@ -63,7 +62,7 @@
 
 <br>
 
-### 🐛 Jejak Kontribusi (Contribution Snake)
+### 🐛 Contribution Trail (Contribution Snake)
 
 <div align="center">
 
