@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E4C6D,50:6E7FA3,100:A9C9C9&height=220&section=header&text=Halo%2C%20Aku%20Fizzrss%20%E2%8F%B3&fontSize=42&fontColor=EDE6D6&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20D4%20Sistem%20Informasi%20Bisnis%20%E2%80%A2%20Politeknik%20Negeri%20Malang&descAlignY=58&descAlign=50" width="100%"/>
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=8B93B8&center=true&vCenter=true&width=600&lines=Perjalanan%20panjang%20dimulai%20dari%20satu%20baris%20kode;Belajar%20Laravel%2C%20Flutter%2C%20dan%20PostgreSQL;Waktu%20terus%20berjalan%2C%20skill%20terus%20bertumbuh%20%E2%8F%B3" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E4C6D,50:6E7FA3,100:A9C9C9&height=220&section=header&text=Halo%2C%20Im%20Fiza Rahmatus Sholikha%20%E2%8F%B3&fontSize=42&fontColor=EDE6D6&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20D4%20Sistem%20Informasi%20Bisnis%20%E2%80%A2%20Politeknik%20Negeri%20Malang&descAlignY=58&descAlign=50" width="100%"/>
 
 </div>
 
@@ -12,7 +10,7 @@
 
 - 🎓 A **Business Information Systems student** at Politeknik Negeri Malang
 - 💻 Currently learning **Laravel, PHP, PostgreSQL, Supabase, Flutter**, and web/mobile development
-- 📊 Also familiar with **Java, Python, Excel**, and the basics of **HTML, CSS, and JavaScript**
+- 📊 Also familiar with **Java dan Python**, and the basics of **HTML, CSS, and JavaScript**
 - 📫 Let's connect and collaborate on campus and personal projects!
 
 <br>
