@@ -1,10 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E4C6D,50:6E7FA3,100:A9C9C9&height=220&section=header&text=Halo%2C%20Im%20Fiza Rahmatus Sholikha%20%E2%8F%B3&fontSize=42&fontColor=EDE6D6&animation=fadeIn&fontAlignY=38&desc=Mahasiswa%20D4%20Sistem%20Informasi%20Bisnis%20%E2%80%A2%20Politeknik%20Negeri%20Malang&descAlignY=58&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:3E4C6D,50:6E7FA3,100:A9C9C9&height=220&section=header&text=Halo%2C%20Im%20Fiza%20Rahmatus%20Sholikha%20%E2%8F%B3&fontSize=42&fontColor=EDE6D6&animation=fadeIn&fontAlignY=38&desc=Business%20Information%20Systems%20%E2%80%A2%20Politeknik%20Negeri%20Malang&descAlignY=58&descAlign=50" width="100%"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=2&section=header" width="100%"/>
 
 ### ⏳ About Me
 
